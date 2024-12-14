@@ -22,7 +22,7 @@
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seu-usuario/purecryptotools.git
+git clone https://github.com/genisyskernel/purecryptotools.git
 ```
 
 2. Acesse o diretório do projeto:
